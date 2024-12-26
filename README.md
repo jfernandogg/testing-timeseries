@@ -240,7 +240,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 
 ## 👥 Autores
 
-- Nombre del Autor - [GitHub](https://github.com/jfernandogg)
+- Juan Fernando Gallego Gomez - [GitHub](https://github.com/jfernandogg)
 
 ## 📧 Contacto
 
